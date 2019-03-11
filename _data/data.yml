@@ -35,6 +35,14 @@ career-profile:
       incident response-type position.
 
 education:
+    - degree: (Cert) CompTIA Security+
+      university: CompTIA
+      time: 2019
+      
+    - degree: (Cert) ITIL Foundation
+      university: AXELOS
+      time: 2017
+      
     - degree: B.S. in Computer Science
       university: Franklin University
       time: 2015
@@ -42,6 +50,7 @@ education:
     - degree: A.A.S in Electrical/Electronics Engineering Technology
       university: Zane State College
       time: 2008
+    
 
 experiences:
     - role: Interface Analyst
@@ -68,10 +77,6 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: GitHub profile
