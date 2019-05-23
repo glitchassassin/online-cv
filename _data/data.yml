@@ -30,9 +30,8 @@ career-profile:
       I've been interested in computer security since I was young and first
       discovering what I could do with computer programming. I've never lost
       that passion, working to expand my security skillset in my free time while
-      I gained a broad base of IT & healthcare knowledge in various related positions.
-      My goal is to move into the information security space full time in a blue team/
-      incident response-type position.
+      I gained a broad base of development, general IT, and healthcare knowledge
+      in various related positions. 
 
 education:
     - degree: (Cert) CompTIA Security+
@@ -60,6 +59,10 @@ experiences:
         Successfully coordinating 3 significant EHR updates. 
         Saving $260k annually by migrating data from old EHRs. 
         Saving 400+ man-hours using scripting tools.
+        Increasing visibility of system health by developing 
+        dashboards to monitor critical services. 
+        Developing and testing custom interface code in 
+        object-oriented Python and C# to meet application requirements. 
 
     - role: Applications Analyst
       time: 2015 - 2017
@@ -72,7 +75,8 @@ experiences:
       time: 2008 - 2015
       company: Howe Insurance Services
       details: |
-        Developed & maintained PHP/MySQL-based web applications, including appsec code review. 
+        Developed & maintained PHP/MySQL-based web applications. 
+        Performed comprehensive appsec code review of an in-house contact management system.
         Managed technical and development projects.
 
 projects:
@@ -95,6 +99,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Javascript
+        level: 70%
+        
       - name: Incident response
         level: 67%
 
@@ -109,9 +116,6 @@ skills:
 
       - name: Penetration testing
         level: 50%
-
-      - name: Windows
-        level: 75%
 
       - name: Project management
         level: 80%
