@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jon Winsley
-    tagline: Interface Analyst
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,16 +52,25 @@ education:
     
 
 experiences:
+    - role: IT Specialist
+      time: 2019 - Present
+      company: Bureau of the Fiscal Service
+      details: |
+        Working with customers to design and build business applications
+        with Java/Spring, Javascript/Angular, and other software architectures.
+        Researching and demoing tools such as Cucumber to support initiatives
+        improving development practices.
+
     - role: Interface Analyst
-      time: 2017 - Present
+      time: 2017 - 2019
       company: Marietta Memorial Hospital
       details: |
-        Successfully coordinating 3 significant EHR updates. 
-        Saving $260k annually by migrating data from old EHRs. 
-        Saving 400+ man-hours using scripting tools.
-        Increasing visibility of system health by developing 
+        Successfully coordinated 3 significant EHR updates. 
+        Saved $260k annually by migrating data from old EHRs. 
+        Saved 400+ man-hours using scripting tools.
+        Increased visibility of system health by developing 
         dashboards to monitor critical services. 
-        Developing and testing custom interface code in 
+        Developed and tested custom interface code in 
         object-oriented Python and C# to meet application requirements. 
 
     - role: Applications Analyst
@@ -100,10 +109,7 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 70%
-        
-      - name: Incident response
-        level: 67%
+        level: 85%
 
       - name: Python
         level: 80%
