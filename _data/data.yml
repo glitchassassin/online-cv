@@ -17,7 +17,7 @@ sidebar:
     website: jonwinsley.com #do not add http://
     linkedin: jon-winsley
     github: glitchassassin
-    gitlab:
+    gitlab: glitchassassin
     bitbucket:
     twitter: '@jonwinsley'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -58,8 +58,8 @@ experiences:
       details: |
         Working with customers to design and build business applications
         with Java/Spring, Javascript/Angular, and other software architectures.
-        Researching and demoing tools such as Cucumber to support initiatives
-        improving development practices.
+        Designing and implementing Azure governance strategies and policies.
+        Guiding development process improvements and architectural decisions.
 
     - role: Interface Analyst
       time: 2017 - 2019
@@ -109,10 +109,13 @@ skills:
 
     toolset:
       - name: Javascript
-        level: 85%
+        level: 90%
 
       - name: Python
         level: 80%
+
+      - name: Java
+        level: 50%
 
       - name: Automation
         level: 75%
