@@ -19,7 +19,7 @@ sidebar:
     github: glitchassassin
     gitlab: glitchassassin
     bitbucket:
-    twitter: '@jonwinsley'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: glitchassassin
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -108,7 +108,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Javascript
+      - name: Javascript/Typescript
         level: 90%
 
       - name: Python
