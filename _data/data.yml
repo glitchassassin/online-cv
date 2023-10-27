@@ -27,20 +27,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I've been interested in computer security since I was young and first
-      discovering what I could do with computer programming. I've never lost
-      that passion, working to expand my security skillset in my free time while
-      I gained a broad base of development, general IT, and healthcare knowledge
-      in various related positions. 
+      An early interest in computer security got me hooked on programming.
+      Though I've never lost my interest in security, it has evolved into a
+      more general passion for thinking about problems from both a systems
+      perspective and a people perspective. Over my career, I've learned to
+      apply that strategy in general IT, healthcare IT, software development,
+      and architecture roles.
 
 education:
-    - degree: (Cert) Scrum Master Certified
-      university: SCRUMStudy
-      time: 2020
+    - degree: Azure Solutions Architect Expert
+      university: Microsoft
+      time: 2023
       
-    - degree: (Cert) ITIL Foundation
-      university: AXELOS
-      time: 2017
+    - degree: AWS Certified Solutions Architect
+      university: Amazon Web Services
+      time: 2023
       
     - degree: B.S. in Computer Science
       university: Franklin University
@@ -52,13 +53,15 @@ education:
     
 
 experiences:
-    - role: Senior Software Developer
+    - role: Senior Software Architect
       time: 2021 - Present
       company: JBS Solutions
       details: |
-        Working with clients to architect and build apps for ecommerce and
-        process automation using Django, Node, React, Vue, and other technologies
-        in AWS cloud platforms.
+        Working with clients in ecommerce, education, and other industries to architect 
+        and build internal and external apps. Using Django, Node, React, Vue, and other
+        technologies in AWS and Azure cloud platforms. Giving architecture guidance and
+        review to other teams, researching improvements to our preferred tech stacks, and
+        supporting sales & recruiting efforts.
         
     - role: IT Specialist
       time: 2019 - 2021
