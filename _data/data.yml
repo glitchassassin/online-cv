@@ -27,12 +27,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An early interest in computer security got me hooked on programming.
-      Though I've never lost my interest in security, it has evolved into a
-      more general passion for thinking about problems from both a systems
-      perspective and a people perspective. Over my career, I've learned to
-      apply that strategy in general IT, healthcare IT, software development,
-      and architecture roles.
+      My programming journey began with computer security, sparking 
+      a curiosity that grew into something broader: seeing problems 
+      from both technical and human angles. Over the years, I've put 
+      this approach to work across general IT, healthcare IT, software 
+      development, and architecture roles. I love learning new systems 
+      and technologies, but I'm equally interested in understanding the 
+      people who use them. This combination helps me build solutions 
+      that work well in the real world.
 
 education:
     - degree: Azure Solutions Architect Expert
@@ -58,9 +60,9 @@ experiences:
       company: JBS Solutions
       details: |
         Working with clients in ecommerce, education, and other industries to architect 
-        and build internal and external apps. Using Django, Node, React, Vue, and other
-        technologies in AWS and Azure cloud platforms. Giving architecture guidance and
-        review to other teams, researching improvements to our preferred tech stacks, and
+        and build internal and external apps. Using Django, React, React Native, and other
+        technologies with AWS and Azure cloud platforms. Giving architecture guidance and
+        advice to other teams, researching improvements to our preferred tech stacks, and
         supporting sales & recruiting efforts.
         
     - role: IT Specialist
