@@ -62,8 +62,8 @@ experiences:
         Working with clients in ecommerce, education, and other industries to architect 
         and build internal and external apps. Using Django, React, React Native, and other
         technologies with AWS and Azure cloud platforms. Giving architecture guidance and
-        advice to other teams, researching improvements to our preferred tech stacks, and
-        supporting sales & recruiting efforts.
+        technical leadership to other teams, researching improvements to our preferred tech 
+        stacks, and supporting sales & recruiting efforts.
         
     - role: IT Specialist
       time: 2019 - 2021
@@ -107,37 +107,15 @@ projects:
     assignments:
       - title: GitHub profile
         link: "https://github.com/glitchassassin"
-        tagline: "Open source projects I created or contribute to, including Lackey (desktop automation with Python)."
+        tagline: "Open source projects I created or contribute to."
 
-      - title: Hack the Box
-        link: "https://www.hackthebox.eu/home/users/profile/46033"
-        tagline: "Pentesting boxes I’ve cracked, to demonstrate skill & learn new techniques."
+      - title: Portfolio
+        link: "https://www.jonwinsley.com/portfolio/"
+        tagline: "A handful of projects I've worked on, alone or with a team."
 
       - title: glitchassassin blog
         link: "https://www.jonwinsley.com"
-        tagline: "In which I document interesting reverse engineering or development conundrums I have encountered."
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Javascript/Typescript
-        level: 90%
-
-      - name: Python
-        level: 80%
-
-      - name: Automation
-        level: 75%
-
-      - name: Web app security
-        level: 67%
-
-      - name: Penetration testing
-        level: 50%
-
-      - name: Project management
-        level: 80%
+        tagline: "In which I document interesting conundrums I have encountered."
 
 footer: >
     Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
